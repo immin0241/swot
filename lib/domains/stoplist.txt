@@ -1249,7 +1249,6 @@ sh.bbu.edu.kh
 itc.edu.khmoestudents.edu.kn
 moe.edu.kn
 o.cnu.ac.kr
-itc.ac.kr
 knue.ac.kr
 cba.edu.kw
 paaet.edu.kw
@@ -1860,7 +1859,6 @@ bnca.ac.in
 uit.edu.mm
 knlu.edu.ua
 upsamail.edu.gh
-itc.ac.kr
 ust.ac.kr
 dsu.ac.kr
 univ-barackobama.com
